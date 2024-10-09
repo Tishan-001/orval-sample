@@ -6,24 +6,24 @@ This project is a full-stack application built with **React** on the frontend, *
 
 Clone the repository and install the necessary dependencies for both the frontend and backend.
 
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/your-username/your-repo.git
 ```
 
-# Install backend dependencies
+## Install backend dependencies
 ```bash
 cd pet-backend
 npm install
 ```
 
-# Install frontend dependencies
+## Install frontend dependencies
 ```bash
 cd ../pet-frontend
 npm install
 ```
 
-# Usage
+## Usage
 Start the backend server:
 ```bash
 cd pet-backend
@@ -38,7 +38,7 @@ npm start
 
 Navigate to http://localhost:5173 to access the app.
 
-# API Documentation
+## API Documentation
 The backend API documentation is generated using Swagger. To view it, start the backend server and go to http://localhost:8080/api-docs.
 
 To generate the client-side API from the Swagger documentation using Orval:
