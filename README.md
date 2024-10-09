@@ -1,5 +1,9 @@
-React Express Vite Project
-This project is a full-stack application built with React on the frontend, Express for the backend, and Vite as the build tool. The backend API documentation is provided using Swagger, and the client API code is generated with Orval.
+# React Express Vite Project
+
+This project is a full-stack application built with **React** on the frontend, **Express** for the backend, and **Vite** as the build tool. The backend API documentation is provided using **Swagger**, and the client API code is generated with **Orval**.
+
+## Project Structure
+
 
 Project Structure
 graphql
