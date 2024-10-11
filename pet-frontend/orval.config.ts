@@ -10,7 +10,7 @@ export default defineConfig({
       client: "react-query",
     },
     input: {
-      target: "./swagger.yml",
+      target: "./swagger.yaml",
     },
     hooks: {
       afterAllFilesWrite: "eslint",
